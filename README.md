@@ -1,6 +1,7 @@
 # Yelp-Clone
 
 Simple Yelp Clone implementing CRUD functions for a restaurant page that displays all the current restaurants in the database
+<br>
   -Create Restaurant
   -Create Reviews
   -Update Restaurant
