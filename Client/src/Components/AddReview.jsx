@@ -4,6 +4,7 @@ import RestaurantFinder from '../APIs/RestaurantFinder'
 
 
 const AddReview = () => {
+    // adding reviews
     const navigate = useNavigate();
     const {id} = useParams();
     const [name,setName] = useState("")
