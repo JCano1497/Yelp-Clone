@@ -13,6 +13,7 @@ Open http://localhost:3000 to view it in your browser.
 Must also start up backend in conjuction
 
 #Backend
+<br>
 Update env file with your own credentials
 Start with node server.js
 
